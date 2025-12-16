@@ -1,0 +1,39 @@
+# ======================
+# Entorno virtual
+# ======================
+venv/
+env/
+.venv/
+
+# ======================
+# Archivos Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ======================
+# Base de datos local
+# ======================
+db.sqlite3
+
+# ======================
+# Archivos de entorno
+# ======================
+.env
+.env.*
+
+# ======================
+# Archivos de Django
+# ======================
+*.log
+staticfiles/
+media/
+
+# ======================
+# IDEs y SO
+# ======================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
